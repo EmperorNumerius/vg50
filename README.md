@@ -1,2 +1,2 @@
 # vg50
-cs50 bideo games couse
+cs50 video games couse
